@@ -37,4 +37,4 @@ jitter_percentage
 #Here as we can observe, the change in percentage between the two is 0.0022%
 
 #For sound e :
-#Similarly, when i calculated the jitter measures for the sound e of my voice, with and without #noise the change in jitter percentage I observed was : 0.0038%
+#Similarly, when i calculated the jitter measures for the sound e of my voice, with and without noise the change in jitter percentage I observed was : 0.0038%
