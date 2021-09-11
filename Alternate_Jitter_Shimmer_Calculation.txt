@@ -1,0 +1,5 @@
+(Alternative method for praat script of shimmer)
+Open new praat script -> edit -> Paste history -> clear history -> Select sound file -> On right hand side side select ‘analyse periodicity’  -> select To pointprocess ->now make sure you have selected sound file and poitnprocess -> Query -> get shimmer -> then open new praat script again -> Paste history -> if you run this praat script (pasted) you will get the shimmer value.
+
+(Alternative method for praat script of jitter)
+Open new praat script -> edit -> Paste history -> clear history -> Select sound file -> On right hand side side select ‘analyse periodicity’  -> select To pointprocess ->now make sure only pointprocess is selected -> Query -> get jitter -> then open new praat script again -> Paste history -> if you run this praat script (pasted) you will get the jitter value.
